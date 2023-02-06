@@ -1,1 +1,3 @@
-Checking out FFT as CNN inputs
+# CNN-FFT
+
+Toy experimentation, trying to use FFT inputs into a CNN
